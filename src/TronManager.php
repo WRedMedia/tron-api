@@ -1,9 +1,9 @@
 <?php
-namespace IEXBase\TronAPI;
+namespace Wredmedia\TronAPI;
 
 
-use IEXBase\TronAPI\Exception\TronException;
-use IEXBase\TronAPI\Provider\{HttpProvider, HttpProviderInterface};
+use Wredmedia\TronAPI\Exception\TronException;
+use Wredmedia\TronAPI\Provider\{HttpProvider, HttpProviderInterface};
 
 class TronManager
 {
