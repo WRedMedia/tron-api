@@ -20,7 +20,7 @@
 
     "require": {
         "php": ">=7.4",
-        "comely-io/data-types": "^1.0.34",
+        "wredmedia/data-types": "*",
         "guzzlehttp/guzzle": "^7.0",
         "wredmedia/web3.php": "*",
         "kornrunner/secp256k1": "^0.1.2",
