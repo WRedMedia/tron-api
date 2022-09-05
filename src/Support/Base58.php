@@ -1,5 +1,5 @@
 <?php
-namespace IEXBase\TronAPI\Support;
+namespace Wredmedia\TronAPI\Support;
 
 class Base58
 {
