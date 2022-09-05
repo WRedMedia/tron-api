@@ -14,11 +14,11 @@
 
 declare(strict_types=1);
 
-namespace IEXBase\TronAPI;
+namespace Wredmedia\TronAPI;
 
-use Comely\DataTypes\BcNumber;
-use IEXBase\TronAPI\Exception\TRC20Exception;
-use IEXBase\TronAPI\Exception\TronException;
+use Wredmedia\DataTypes\BcNumber;
+use Wredmedia\TronAPI\Exception\TRC20Exception;
+use Wredmedia\TronAPI\Exception\TronException;
 
 /**
  * Class TRC20Contract
